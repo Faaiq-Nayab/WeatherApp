@@ -44,7 +44,7 @@ function App() {
             type="submit"
             className="h-11 w-full rounded-md bg-white px-5 font-semibold text-[#28787c] cursor-pointer shadow-md transition-all duration-300 hover:-translate-y-1 hover:bg-[#fff3a3] hover:shadow-xl active:scale-95 sm:w-auto"
           >
-            Search
+            Search Location
           </button>
         </form>
         {isloading ? (
